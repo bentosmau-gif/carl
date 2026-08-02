@@ -84,7 +84,7 @@ Before submitting a Pull Request:
 
 ## License
 
-(To be decided.)
+GNU Public License 2.0
 
 ## Community
 
