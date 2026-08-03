@@ -1,6 +1,4 @@
-// CarlOS - GSOD (Green Screen of Death)
-// Draws a full-screen green background and prints a fatal error message.
-// This version uses a raw framebuffer for maximum compatibility.
+
 
 #include <stdint.h>
 #include "carl_error.h"
